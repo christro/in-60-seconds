@@ -2,7 +2,7 @@
 
 ---
 
-### Add Some Slide Candy
+### Add Some Slide Inez
 
 ![IMAGE](assets/img/presentation.png)
 
